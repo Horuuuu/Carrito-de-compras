@@ -7,3 +7,5 @@
 <p>Agrega a travez de la pestaña Productos, o selecciona el producto y elegi la cantidad manualmente en el carrito .Ademas marca el total deacuerdo a la cantidad y precio.</p>
 
 ![](Screenshots/Screenshot_2.jpg)
+
+![](img/pizza%20en%20home.jpg)
