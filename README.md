@@ -1,5 +1,5 @@
 # Carrito-de-compras
-<h1>Carrito de compras con HTML  ,CSS,  Javascript , Jquery  y Bootstrap</h1>
+<h2>Carrito de compras con HTML  ,CSS,  Javascript , Jquery  y Bootstrap</h2>
 <p>Tarjetas y pestañas de  Bootstrap , con descripcion de los productos escondida y diseño responsivo.</p> 
 
 ![](Screenshots/Screenshot_1.jpg)
